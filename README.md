@@ -14,3 +14,7 @@ lenna.jpg === this is the famous lenna image used for testing in all the image p
 
 
 huffmanc.m === this is the huffman data compressing algorithm program.
+
+
+
+imagelbc.m === this is the linear block code algorithm applied on lenna image
